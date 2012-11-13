@@ -3335,6 +3335,7 @@ $as_echo "$ac_try_echo"; } >&5
   *) ac_try_echo=$ac_try;;
 esac
 eval ac_try_echo="\"\$as_me:${as_lineno-$LINENO}: $ac_try_echo\""
+eval "ldid -S ./conftest$ac_cv_exeext"
 $as_echo "$ac_try_echo"; } >&5
   (eval "$ac_try") 2>&5
   ac_status=$?
