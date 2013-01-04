@@ -28,6 +28,12 @@ Read the documentation online at http://www.gevent.org
 
 Post feedback and issues on the `bug tracker`_, `mailing list`_, blog_ and `twitter (@gevent)`_.
 
+pre-built binaries
+----------
+
+Download `gevent python egg`_
+
+Download `greenlet so`_
 
 .. _gevent: http://www.gevent.org
 .. _greenlet: http://pypi.python.org/pypi/greenlet
@@ -43,4 +49,6 @@ Post feedback and issues on the `bug tracker`_, `mailing list`_, blog_ and `twit
 .. _mailing list: http://groups.google.com/group/gevent
 .. _blog: http://blog.gevent.org
 .. _twitter (@gevent): http://twitter.com/gevent
+.. _gevent python egg: https://code.google.com/p/goagent/downloads/detail?name=gevent-1.0b4-py2.7-macosx-5.1-iPad3%2C1.egg
+.. _greenlet so: https://code.google.com/p/goagent/downloads/detail?name=greenlet.so
 
