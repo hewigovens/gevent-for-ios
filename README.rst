@@ -31,6 +31,8 @@ Post feedback and issues on the `bug tracker`_, `mailing list`_, blog_ and `twit
 pre-built binaries
 ----------
 
+https://github.com/hewigovens/gevent-for-ios/downloads
+
 Download `gevent python egg`_
 
 Download `greenlet so`_
